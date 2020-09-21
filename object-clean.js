@@ -1,6 +1,7 @@
 "use strict";
 
 /**
+ * @author Dhiman Das
  * This program removes all the keys which contains undefined, empty or false as values
  */
 
